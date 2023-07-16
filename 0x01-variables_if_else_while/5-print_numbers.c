@@ -15,4 +15,5 @@ int main(void)
 		printf("%d\n", n);
 		n = n + 1;
 	}
+	return (0);
 }
